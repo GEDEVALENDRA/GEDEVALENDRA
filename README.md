@@ -1,4 +1,4 @@
-# Hi there 👋, I'm GEDE VALENDRA
+# Hi there 👋, I'm Gede Valendra
 
 ### About Me
 Full-Stack Developer | Passionate about practical solutions.
