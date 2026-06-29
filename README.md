@@ -13,9 +13,9 @@ Full-Stack Developer | Passionate about practical solutions.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Project FunikIn
-- **[FunikIn](#)**
-  A modern, high-performance web educations platform.
+### Project Full Stack
+- **[FunikIn](https://www.funikin.com)**
+  A modern web educations platform.
 
 ### Kontak
 <p align="left">
