@@ -3,6 +3,7 @@
 ### About Me
 Full-Stack Developer | Passionate about practical solutions.
 
+### My Stack (On Learning)
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -13,7 +14,7 @@ Full-Stack Developer | Passionate about practical solutions.
 </p>
 
 ### Project Full Stack
-- **[FunikIn](https://www.funikin.com)**
+**[FunikIn](https://www.funikin.com)**
   a modern web educations platform.
 
 ### Kontak
@@ -24,7 +25,7 @@ Full-Stack Developer | Passionate about practical solutions.
   <a href="https://github.com/gedevalendra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/gede-valendra-b5381b2a6" target="_blank">
+  <a href="https://linkedin.com/in/gedevalendra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
