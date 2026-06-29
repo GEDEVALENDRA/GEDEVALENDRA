@@ -18,13 +18,13 @@ Full-Stack Developer | Passionate about practical solutions.
 
 ### Kontak
 <p align="left">
-  <a href="https://instagram.com/username_kamu" target="_blank">
+  <a href="https://instagram.com/gedevln12_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/GEDEVALENDRA" target="_blank">
+  <a href="https://github.com/gedevalendra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/username_kamu" target="_blank">
+  <a href="https://linkedin.com/in/gedevalendra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
