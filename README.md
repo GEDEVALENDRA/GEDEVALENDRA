@@ -1,6 +1,6 @@
 # Hi there 👋, I'm GEDE VALENDRA
 
-### Ttg Saya
+### About Me
 Full-Stack Developer | Passionate about practical solutions.
 
 ### My Stack
@@ -15,7 +15,7 @@ Full-Stack Developer | Passionate about practical solutions.
 
 ### Project FunikIn
 - **[FunikIn](#)**
-  A modern, high-performance web platform.
+  A modern, high-performance web educations platform.
 
 ### Kontak
 <p align="left">
