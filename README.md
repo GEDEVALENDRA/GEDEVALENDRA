@@ -15,7 +15,7 @@ Full-Stack Developer | Passionate about practical solutions.
 
 ### Project Full Stack
 - **[FunikIn](https://www.funikin.com)**
-  A modern web educations platform.
+  a modern web educations platform.
 
 ### Kontak
 <p align="left">
