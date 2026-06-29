@@ -1,35 +1,31 @@
-# Gede Valendra 👋
-### Full-Stack Developer
+# Hi there 👋, I'm GEDE VALENDRA
 
-Saya adalah seorang **Full-Stack Developer** 
+### Ttg Saya
+Full-Stack Developer | Passionate about practical solutions.
 
----
-
-### 💻 My Stack
-
-* **Frontend:** React, Astro.js, HTML5/CSS3
-* **Backend:** Node.js, Express.js, PHP
-* **Database:** MongoDB
-
----
-
-#### 🌟 **FunikIn**
-Platform web educations, yang berfokus pada pendidikan programing untuk anak-anak sedari kecil, berisi materi pembelajaran via video dan kuis serta minigames interaktif untuk mendukung metode pembelajaran anak-anak
-
-#### 🎵 **[ytDownloader](https://github.com/GEDEVALENDRA/ytDownloader)**
-> *Proyek automasi sederhana untuk membantu paman mengunduh lagu.* Sebuah utilitas berbasis skrip untuk mengurai, mengunduh, dan mengonversi media YouTube menjadi format MP3/MP4 berkualitas tinggi. Dilengkapi dengan pencatatan status interaktif (`[INFO]`) agar mudah digunakan oleh pengguna non-teknis.
-
----
-
-### 📊 Aktivitas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GEDEVALENDRA&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Statistik Gede Valendra" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GEDEVALENDRA&theme=nord&hide_border=true" alt="Statistik Streak" width="48%" />
+### My Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
+### Project FunikIn
+- **[FunikIn](#)**
+  A modern, high-performance web platform.
 
-### 📫 Mari Terhubung
-* **Profil GitHub:** [@GEDEVALENDRA](https://github.com/GEDEVALENDRA)
-* *Terbuka untuk diskusi dan kolaborasi terkait React, Node.js, Astro.js, dan pengembangan proyek Open-Source.*
+### Kontak
+<p align="left">
+  <a href="https://instagram.com/username_kamu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/GEDEVALENDRA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/username_kamu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
